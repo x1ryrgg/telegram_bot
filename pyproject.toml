@@ -1,0 +1,23 @@
+[project]
+name = "telegram-mrketplace-bot"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "x1ryrg",email = "zhdamarov-vladimir@mail.ru"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests (>=2.32.3,<3.0.0)",
+    "aiogram (>=3.20.0.post0,<4.0.0)",
+    "dotenv (>=0.9.9,<0.10.0)",
+    "psycopg2-binary (>=2.9.10,<3.0.0)",
+    "redis (>=6.1.0,<7.0.0)",
+    "aioredis (>=2.0.1,<3.0.0)",
+    "setuptools (>=80.8.0,<81.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
