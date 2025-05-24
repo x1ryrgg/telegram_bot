@@ -2864,3 +2864,112 @@ aiogram.exceptions.TelegramNetworkError: HTTP Client says - ClientConnectorError
 2025-05-23 17:07:08,125 - aiogram.event - INFO - Update id=820560426 is handled. Duration 2241 ms by bot id=7905534763
 2025-05-23 17:07:32,810 - aiogram.dispatcher - INFO - Polling stopped
 2025-05-23 17:07:33,071 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 10:54:25,842 - aiogram.dispatcher - INFO - Start polling
+2025-05-24 10:54:26,044 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 10:54:44,115 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 10:54:44,335 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 10:54:44,335 - aiogram.event - INFO - Update id=820560427 is handled. Duration 220 ms by bot id=7905534763
+2025-05-24 10:54:47,530 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 10:54:47,754 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 10:54:47,755 - aiogram.event - INFO - Update id=820560428 is handled. Duration 225 ms by bot id=7905534763
+2025-05-24 10:54:49,121 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 10:54:49,199 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 10:54:49,199 - aiogram.event - INFO - Update id=820560429 is handled. Duration 78 ms by bot id=7905534763
+2025-05-24 10:54:51,003 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 10:54:52,381 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 10:54:52,381 - aiogram.event - INFO - Update id=820560430 is handled. Duration 1378 ms by bot id=7905534763
+2025-05-24 10:54:54,788 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 10:54:55,072 - aiogram.event - INFO - Update id=820560431 is not handled. Duration 283 ms by bot id=7905534763
+2025-05-24 10:55:45,841 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-24 10:55:46,105 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 10:55:51,086 - aiogram.dispatcher - INFO - Start polling
+2025-05-24 10:55:51,262 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 10:55:58,621 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 10:55:58,933 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 10:55:58,934 - aiogram.event - INFO - Update id=820560432 is handled. Duration 313 ms by bot id=7905534763
+2025-05-24 10:57:20,363 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-24 10:57:20,621 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 10:57:25,741 - aiogram.dispatcher - INFO - Start polling
+2025-05-24 10:57:25,922 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 10:57:25,986 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 10:57:26,393 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 10:57:26,393 - aiogram.event - INFO - Update id=820560433 is handled. Duration 407 ms by bot id=7905534763
+2025-05-24 10:59:56,502 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-24 10:59:56,756 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 11:00:02,767 - aiogram.dispatcher - INFO - Start polling
+2025-05-24 11:00:02,964 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 11:00:05,964 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 11:00:06,484 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 11:00:06,484 - aiogram.event - INFO - Update id=820560434 is handled. Duration 520 ms by bot id=7905534763
+2025-05-24 11:00:09,826 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 11:00:09,937 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 11:00:09,937 - aiogram.event - INFO - Update id=820560435 is handled. Duration 111 ms by bot id=7905534763
+2025-05-24 11:00:11,527 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 11:00:11,607 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 11:00:11,608 - aiogram.event - INFO - Update id=820560436 is handled. Duration 81 ms by bot id=7905534763
+2025-05-24 11:00:13,211 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 11:00:15,314 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 11:00:15,314 - aiogram.event - INFO - Update id=820560437 is handled. Duration 2103 ms by bot id=7905534763
+2025-05-24 11:00:20,066 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 11:00:20,503 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 11:00:20,504 - aiogram.event - INFO - Update id=820560438 is handled. Duration 438 ms by bot id=7905534763
+2025-05-24 11:05:36,654 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-24 11:05:36,916 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 11:05:42,054 - aiogram.dispatcher - INFO - Start polling
+2025-05-24 11:05:42,254 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 11:05:50,107 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 11:05:50,343 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 11:05:50,344 - aiogram.event - INFO - Update id=820560439 is handled. Duration 237 ms by bot id=7905534763
+2025-05-24 11:05:52,527 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 11:05:52,792 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 11:05:52,792 - aiogram.event - INFO - Update id=820560440 is handled. Duration 265 ms by bot id=7905534763
+2025-05-24 11:05:54,433 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 11:05:54,531 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 11:05:54,531 - aiogram.event - INFO - Update id=820560441 is handled. Duration 98 ms by bot id=7905534763
+2025-05-24 11:05:56,010 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 11:05:58,772 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 11:05:58,773 - aiogram.event - INFO - Update id=820560442 is handled. Duration 2763 ms by bot id=7905534763
+2025-05-24 11:06:00,258 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 11:06:00,559 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 11:06:00,560 - aiogram.event - INFO - Update id=820560443 is handled. Duration 302 ms by bot id=7905534763
+2025-05-24 11:09:47,368 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-24 11:09:47,637 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 11:09:53,510 - aiogram.dispatcher - INFO - Start polling
+2025-05-24 11:09:53,743 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 11:09:55,565 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 11:09:55,899 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 11:09:55,899 - aiogram.event - INFO - Update id=820560444 is handled. Duration 333 ms by bot id=7905534763
+2025-05-24 11:10:13,821 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 11:10:13,931 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 11:10:13,932 - aiogram.event - INFO - Update id=820560445 is handled. Duration 110 ms by bot id=7905534763
+2025-05-24 11:10:15,393 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 11:10:15,471 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 11:10:15,471 - aiogram.event - INFO - Update id=820560446 is handled. Duration 78 ms by bot id=7905534763
+2025-05-24 11:10:17,190 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 11:10:19,269 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 11:10:19,270 - aiogram.event - INFO - Update id=820560447 is handled. Duration 2079 ms by bot id=7905534763
+2025-05-24 11:10:25,178 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 11:10:25,459 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 11:10:25,459 - aiogram.event - INFO - Update id=820560448 is handled. Duration 281 ms by bot id=7905534763
+2025-05-24 11:11:16,078 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-24 11:11:16,332 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 11:11:20,883 - aiogram.dispatcher - INFO - Start polling
+2025-05-24 11:11:21,082 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 11:11:23,499 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 11:11:23,824 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 11:11:23,824 - aiogram.event - INFO - Update id=820560449 is handled. Duration 325 ms by bot id=7905534763
+2025-05-24 11:17:17,535 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-24 11:17:17,795 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 11:17:27,547 - aiogram.dispatcher - INFO - Start polling
+2025-05-24 11:17:27,723 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 11:17:29,263 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 11:17:29,609 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 11:17:29,610 - aiogram.event - INFO - Update id=820560450 is handled. Duration 347 ms by bot id=7905534763
+2025-05-24 11:22:40,922 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 11:22:41,192 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 11:22:41,193 - aiogram.event - INFO - Update id=820560451 is handled. Duration 271 ms by bot id=7905534763
+2025-05-24 11:32:49,183 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-24 11:32:49,183 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7905534763)
+2025-05-24 11:33:00,444 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7905534763)
+2025-05-24 11:35:40,479 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-24 11:35:40,743 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'

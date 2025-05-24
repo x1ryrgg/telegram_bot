@@ -5,17 +5,13 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.enums import ParseMode
 from api import authenticate_user, refresh_access_token, get_user_orders, check_user_registered, link_telegram_id
 from cache import get_tokens_redis, save_tokens_redis, delete_tokens_redis
+from config import format_order, get_status_emoji
 
 dp_router = Router()
 
 class AuthState(StatesGroup):
     username = State()
     password = State()
-
-
-
-
-
 
 
 @dp_router.message(Command("start"))
@@ -84,11 +80,29 @@ async def show_delivery(message: types.Message):
             orders = await get_user_orders(new_tokens["access"])
 
     if not orders:
-        await message.answer("📦 У вас пока нет заказов.")
+        await message.answer("📭 У вас пока нет заказов.")
         return
 
-    orders_text = "\n".join([f"🔹 Заказ #{o['id']}: {o['status']}" for o in orders])
-    await message.answer(f"📋 Ваши заказы:\n{orders_text}")
+    delivered = [o for o in orders if o['status'] == 'delivered']
+    on_the_way = [o for o in orders if o['status'] == 'on the way']
+
+    response = ["📦 <b>Ваши заказы</b>"]
+
+    if delivered:
+        response.append("\n🎁 <b>Готовы к выдаче:</b>")
+        response.extend(format_order(o) for o in delivered)
+
+    if on_the_way:
+        response.append("\n🚚 <b>В пути:</b>")
+        response.extend(format_order(o) for o in on_the_way)
+
+    full_message = "\n".join(response)
+    if len(full_message) > 4000:  # Ограничение Telegram
+        parts = [full_message[i:i + 4000] for i in range(0, len(full_message), 4000)]
+        for part in parts:
+            await message.answer(part)
+    else:
+        await message.answer(full_message)
 
 
 @dp_router.message(Command("check"))

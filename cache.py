@@ -16,7 +16,7 @@ redis_client = redis.Redis(
 async def save_tokens_redis(tg_id: int, tokens: dict) -> bool:
     """Сохраняет токены в Redis (асинхронно)."""
     try:
-        await redis_client.set(f"user:{tg_id}", json.dumps(tokens), ex=20)
+        await redis_client.set(f"user:{tg_id}", json.dumps(tokens), ex=60 * 60)
         return True
     except Exception as e:
         print(f"Redis Save Error: {e}")
@@ -26,8 +26,9 @@ async def get_tokens_redis(tg_id: int) -> dict | None:
     """Получает токены из Redis (асинхронно)."""
     data = await redis_client.get(f"user:{tg_id}")
     if data:
-        await redis_client.expire(f"user:{tg_id}", 20)
+        await redis_client.expire(f"user:{tg_id}", 60 * 60)
         return json.loads(data)
+    return None
 
 
 async def delete_tokens_redis(tg_id: int) -> None:
