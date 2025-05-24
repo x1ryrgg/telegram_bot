@@ -1,11 +1,13 @@
-from aiogram import Bot, Dispatcher, types, F, Router
+from aiogram import Bot, Dispatcher, F, Router
+from aiogram.types import Message
 from aiogram.filters import Command
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.enums import ParseMode
-from api import authenticate_user, refresh_access_token, get_user_orders, check_user_registered, link_telegram_id
+from api import (authenticate_user, refresh_access_token, get_user_orders, check_user_registered, link_telegram_id,
+                 get_user_history)
 from cache import get_tokens_redis, save_tokens_redis, delete_tokens_redis
-from config import format_order, get_status_emoji
+from config import format_order, get_status_orders, get_status_history, format_history
 
 dp_router = Router()
 
@@ -15,7 +17,7 @@ class AuthState(StatesGroup):
 
 
 @dp_router.message(Command("start"))
-async def start(message: types.Message, state: FSMContext):
+async def start(message: Message, state: FSMContext):
     tg_id = message.from_user.id
     tokens = await get_tokens_redis(tg_id)
 
@@ -27,14 +29,14 @@ async def start(message: types.Message, state: FSMContext):
 
 
 @dp_router.message(AuthState.username)
-async def handle_username(message: types.Message, state: FSMContext):
+async def handle_username(message: Message, state: FSMContext):
     await state.update_data(username=message.text)
     await message.answer("Теперь введите ваш **пароль**:")
     await state.set_state(AuthState.password)
 
 
 @dp_router.message(AuthState.password)
-async def handle_password(message: types.Message, state: FSMContext):
+async def handle_password(message: Message, state: FSMContext):
     data = await state.get_data()
     username = data["username"]
     password = message.text
@@ -57,12 +59,13 @@ async def handle_password(message: types.Message, state: FSMContext):
         await state.clear()
         return
 
-    await message.answer("✅ Успешная авторизация! Доступные команды:\n/delivery – ваши заказы")
+    await message.answer("✅ Успешная авторизация! Доступные команды:\n/delivery – ваши заказы"
+                         "\n/history - история покупок")
     await state.clear()
 
 
 @dp_router.message(Command("delivery"))
-async def show_delivery(message: types.Message):
+async def delivery_handler(message: Message):
     tg_id = message.from_user.id
 
     tokens = await get_tokens_redis(tg_id)
@@ -105,15 +108,49 @@ async def show_delivery(message: types.Message):
         await message.answer(full_message)
 
 
+@dp_router.message(Command("history"))
+async def history_history(message: Message):
+    tg_id = message.from_user.id
+
+    tokens = await get_tokens_redis(tg_id)
+
+    if not tokens:
+        await message.answer("❌ Требуется авторизация! /start")
+        return
+
+    histories = await get_user_history(tokens["access"])
+
+    if histories is None:
+        new_tokens = await refresh_access_token(tokens["refresh"])
+        if new_tokens:
+            await save_tokens_redis(tg_id, new_tokens)
+            histories = await get_user_history(new_tokens["access"])
+
+    if not histories:
+        await message.answer("📭 Ваша история покупок пуста.")
+        return
+
+    response = [
+        "🛒 <b>История покупок</b>",
+        f"Всего покупок: {len(histories)}\n"
+    ]
+
+    response.extend(format_history(item) for item in histories)
+
+    full_message = "\n".join(response)
+    for part in [full_message[i:i + 4000] for i in range(0, len(full_message), 4000)]:
+        await message.answer(part)
+
+
 @dp_router.message(Command("check"))
-async def get_tg_id_handler(message: types.Message):
+async def get_tg_id_handler(message: Message):
     tg_id = message.from_user.id
     tokens = await get_tokens_redis(tg_id)
     await message.answer(f"{tokens}")
 
 
 @dp_router.message(Command("delete"))
-async def delete_token_handler(message: types.Message):
+async def delete_token_handler(message: Message):
     tg_id = message.from_user.id
     try:
         delete = await delete_tokens_redis(tg_id)

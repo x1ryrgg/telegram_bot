@@ -2973,3 +2973,39 @@ aiogram.exceptions.TelegramNetworkError: HTTP Client says - ClientConnectorError
 2025-05-24 11:33:00,444 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7905534763)
 2025-05-24 11:35:40,479 - aiogram.dispatcher - INFO - Polling stopped
 2025-05-24 11:35:40,743 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 12:06:07,714 - aiogram.dispatcher - INFO - Start polling
+2025-05-24 12:06:08,684 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 12:06:10,048 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 12:06:10,452 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 12:06:10,453 - aiogram.event - INFO - Update id=820560458 is handled. Duration 404 ms by bot id=7905534763
+2025-05-24 12:06:14,632 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 12:06:14,816 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 12:06:14,816 - aiogram.event - INFO - Update id=820560459 is handled. Duration 184 ms by bot id=7905534763
+2025-05-24 12:10:43,386 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-24 12:10:43,647 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 15:46:24,186 - aiogram.dispatcher - INFO - Start polling
+2025-05-24 15:46:24,372 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 15:46:51,583 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 15:46:51,979 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 15:46:51,980 - aiogram.event - INFO - Update id=820560460 is handled. Duration 397 ms by bot id=7905534763
+2025-05-24 15:46:55,083 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 15:46:55,161 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 15:46:55,161 - aiogram.event - INFO - Update id=820560461 is handled. Duration 78 ms by bot id=7905534763
+2025-05-24 15:46:57,583 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 15:46:57,659 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 15:46:57,660 - aiogram.event - INFO - Update id=820560462 is handled. Duration 76 ms by bot id=7905534763
+2025-05-24 15:46:59,477 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 15:47:00,639 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 15:47:00,639 - aiogram.event - INFO - Update id=820560463 is handled. Duration 1162 ms by bot id=7905534763
+2025-05-24 15:47:05,266 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 15:47:05,557 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 15:47:05,557 - aiogram.event - INFO - Update id=820560464 is handled. Duration 291 ms by bot id=7905534763
+2025-05-24 15:59:07,392 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-24 15:59:07,660 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 15:59:16,340 - aiogram.dispatcher - INFO - Start polling
+2025-05-24 15:59:16,524 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 15:59:22,022 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 15:59:22,430 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 15:59:22,431 - aiogram.event - INFO - Update id=820560465 is handled. Duration 408 ms by bot id=7905534763
+2025-05-24 16:00:11,814 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-24 16:00:12,070 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'

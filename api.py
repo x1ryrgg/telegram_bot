@@ -43,6 +43,15 @@ async def refresh_access_token(refresh_token: str) -> dict | None:
         print(f"Refresh Error: {e}")
         return None
 
+async def check_user_registered(tg_id: int) -> bool:
+    """Проверка, есть ли пользователь с таким tg_id в БД."""
+    try:
+        response = requests.get(f"{API_URL}/users/?tg_id={tg_id}")
+        return response.status_code == 200 and bool(response.json())
+    except Exception as e:
+        print(f"Check User Error: {e}")
+        return False
+
 async def get_user_orders(access_token: str) -> list | None:
     """Получение списка заказов пользователя."""
     headers = {"Authorization": f"Bearer {access_token}"}
@@ -53,14 +62,15 @@ async def get_user_orders(access_token: str) -> list | None:
         print(f"Orders Error: {e}")
         return None
 
-async def check_user_registered(tg_id: int) -> bool:
-    """Проверка, есть ли пользователь с таким tg_id в БД."""
+async def get_user_history(access_token: str) -> list | None:
+    """Получение списка заказов пользователя."""
+    headers = {"Authorization": f"Bearer {access_token}"}
     try:
-        response = requests.get(f"{API_URL}/users/?tg_id={tg_id}")
-        return response.status_code == 200 and bool(response.json())
+        response = requests.get(f"{API_URL}/history/", headers=headers)
+        return response.json() if response.status_code == 200 else None
     except Exception as e:
-        print(f"Check User Error: {e}")
-        return False
+        print(f"Orders Error: {e}")
+        return None
 
 
 
