@@ -3009,3 +3009,2614 @@ aiogram.exceptions.TelegramNetworkError: HTTP Client says - ClientConnectorError
 2025-05-24 15:59:22,431 - aiogram.event - INFO - Update id=820560465 is handled. Duration 408 ms by bot id=7905534763
 2025-05-24 16:00:11,814 - aiogram.dispatcher - INFO - Polling stopped
 2025-05-24 16:00:12,070 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 17:07:01,996 - aiogram.dispatcher - INFO - Start polling
+2025-05-24 17:07:02,183 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 17:07:17,930 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:07:18,142 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:07:18,142 - aiogram.event - INFO - Update id=820560466 is handled. Duration 212 ms by bot id=7905534763
+2025-05-24 17:07:21,290 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:07:21,366 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:07:21,367 - aiogram.event - INFO - Update id=820560467 is handled. Duration 77 ms by bot id=7905534763
+2025-05-24 17:07:24,879 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:07:25,035 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:07:25,036 - aiogram.event - INFO - Update id=820560468 is handled. Duration 157 ms by bot id=7905534763
+2025-05-24 17:07:29,494 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:07:31,725 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:07:31,726 - aiogram.event - INFO - Update id=820560469 is handled. Duration 2231 ms by bot id=7905534763
+2025-05-24 17:07:36,366 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:07:36,585 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:07:36,585 - aiogram.event - INFO - Update id=820560470 is handled. Duration 219 ms by bot id=7905534763
+2025-05-24 17:07:41,390 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:07:41,689 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:07:41,690 - aiogram.event - INFO - Update id=820560471 is handled. Duration 299 ms by bot id=7905534763
+2025-05-24 17:09:34,516 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:09:34,847 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:09:34,847 - aiogram.event - INFO - Update id=820560472 is handled. Duration 331 ms by bot id=7905534763
+2025-05-24 17:10:18,529 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:10:18,724 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:10:18,725 - aiogram.event - INFO - Update id=820560473 is handled. Duration 196 ms by bot id=7905534763
+2025-05-24 17:10:31,189 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:10:31,391 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:10:31,391 - aiogram.event - INFO - Update id=820560474 is handled. Duration 202 ms by bot id=7905534763
+2025-05-24 17:13:21,829 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:13:21,832 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:13:21,833 - aiogram.event - INFO - Update id=820560475 is handled. Duration 3 ms by bot id=7905534763
+2025-05-24 17:13:48,881 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:13:48,959 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:13:48,960 - aiogram.event - INFO - Update id=820560476 is handled. Duration 78 ms by bot id=7905534763
+2025-05-24 17:13:56,574 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:13:56,754 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:13:56,755 - aiogram.event - INFO - Update id=820560477 is handled. Duration 181 ms by bot id=7905534763
+2025-05-24 17:13:59,017 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:13:59,091 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:13:59,091 - aiogram.event - INFO - Update id=820560478 is handled. Duration 74 ms by bot id=7905534763
+2025-05-24 17:14:01,126 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:14:02,267 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:14:02,268 - aiogram.event - INFO - Update id=820560479 is handled. Duration 1142 ms by bot id=7905534763
+2025-05-24 17:20:42,437 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-24 17:20:42,700 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 17:20:48,822 - aiogram.dispatcher - INFO - Start polling
+2025-05-24 17:20:49,003 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 17:20:54,218 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:20:54,224 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:20:54,224 - aiogram.event - INFO - Update id=820560480 is handled. Duration 6 ms by bot id=7905534763
+2025-05-24 17:20:59,344 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:20:59,552 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:20:59,553 - aiogram.event - INFO - Update id=820560481 is handled. Duration 208 ms by bot id=7905534763
+2025-05-24 17:21:26,381 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:21:26,460 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:21:26,460 - aiogram.event - INFO - Update id=820560482 is handled. Duration 79 ms by bot id=7905534763
+2025-05-24 17:21:29,873 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:21:30,028 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:21:30,029 - aiogram.event - INFO - Update id=820560483 is handled. Duration 155 ms by bot id=7905534763
+2025-05-24 17:21:31,727 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:21:34,039 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:21:34,040 - aiogram.event - INFO - Update id=820560484 is handled. Duration 2312 ms by bot id=7905534763
+2025-05-24 17:21:36,909 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:21:36,912 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:21:36,912 - aiogram.event - INFO - Update id=820560485 is not handled. Duration 2 ms by bot id=7905534763
+2025-05-24 17:21:38,046 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:21:38,048 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:21:38,048 - aiogram.event - INFO - Update id=820560486 is not handled. Duration 2 ms by bot id=7905534763
+2025-05-24 17:23:50,456 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-24 17:23:50,714 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 17:23:56,352 - aiogram.dispatcher - INFO - Start polling
+2025-05-24 17:23:56,557 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-24 17:23:56,615 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:23:57,003 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:23:57,003 - aiogram.event - INFO - Update id=820560487 is handled. Duration 388 ms by bot id=7905534763
+2025-05-24 17:24:00,242 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:24:00,617 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:24:00,618 - aiogram.event - INFO - Update id=820560488 is handled. Duration 375 ms by bot id=7905534763
+2025-05-24 17:24:02,202 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:24:02,457 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:24:02,457 - aiogram.event - INFO - Update id=820560489 is handled. Duration 255 ms by bot id=7905534763
+2025-05-24 17:24:07,797 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:24:08,085 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:24:08,086 - aiogram.event - INFO - Update id=820560490 is handled. Duration 289 ms by bot id=7905534763
+2025-05-24 17:24:14,296 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:24:14,300 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:24:14,300 - aiogram.event - INFO - Update id=820560491 is handled. Duration 4 ms by bot id=7905534763
+2025-05-24 17:24:17,303 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:24:17,440 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:24:17,440 - aiogram.event - INFO - Update id=820560492 is handled. Duration 137 ms by bot id=7905534763
+2025-05-24 17:24:19,074 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:24:19,167 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:24:19,167 - aiogram.event - INFO - Update id=820560493 is handled. Duration 93 ms by bot id=7905534763
+2025-05-24 17:24:22,088 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:24:22,174 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:24:22,174 - aiogram.event - INFO - Update id=820560494 is handled. Duration 86 ms by bot id=7905534763
+2025-05-24 17:24:24,595 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:24:24,676 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:24:24,676 - aiogram.event - INFO - Update id=820560495 is handled. Duration 81 ms by bot id=7905534763
+2025-05-24 17:24:26,164 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:24:28,247 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:24:28,247 - aiogram.event - INFO - Update id=820560496 is handled. Duration 2083 ms by bot id=7905534763
+2025-05-24 17:24:29,473 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:24:29,753 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:24:29,753 - aiogram.event - INFO - Update id=820560497 is handled. Duration 280 ms by bot id=7905534763
+2025-05-24 17:24:31,000 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-24 17:24:31,449 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-24 17:24:31,449 - aiogram.event - INFO - Update id=820560498 is handled. Duration 449 ms by bot id=7905534763
+2025-05-24 17:24:35,278 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-24 17:24:35,542 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 18:06:54,095 - aiogram.dispatcher - INFO - Start polling
+2025-05-26 18:06:54,301 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 18:06:54,368 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:06:54,668 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:06:54,669 - aiogram.event - INFO - Update id=820560503 is handled. Duration 300 ms by bot id=7905534763
+2025-05-26 18:06:58,555 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:06:58,666 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:06:58,666 - aiogram.event - INFO - Update id=820560504 is handled. Duration 111 ms by bot id=7905534763
+2025-05-26 18:07:01,714 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:07:01,900 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:07:01,900 - aiogram.event - INFO - Update id=820560505 is handled. Duration 186 ms by bot id=7905534763
+2025-05-26 18:08:01,737 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:08:04,378 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:08:04,378 - aiogram.event - INFO - Update id=820560506 is handled. Duration 2640 ms by bot id=7905534763
+2025-05-26 18:08:17,642 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:08:18,291 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:08:18,292 - aiogram.event - INFO - Update id=820560507 is handled. Duration 650 ms by bot id=7905534763
+2025-05-26 18:08:20,046 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:08:20,334 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:08:20,334 - aiogram.event - INFO - Update id=820560508 is handled. Duration 288 ms by bot id=7905534763
+2025-05-26 18:09:14,420 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-26 18:09:14,685 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 18:13:24,312 - aiogram.dispatcher - INFO - Start polling
+2025-05-26 18:13:24,516 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 18:13:30,232 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:13:30,674 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:13:30,674 - aiogram.event - INFO - Update id=820560509 is handled. Duration 442 ms by bot id=7905534763
+2025-05-26 18:13:37,164 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:13:37,168 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:13:37,169 - aiogram.event - INFO - Update id=820560510 is not handled. Duration 4 ms by bot id=7905534763
+2025-05-26 18:14:03,285 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:14:03,290 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:14:03,290 - aiogram.event - INFO - Update id=820560511 is not handled. Duration 5 ms by bot id=7905534763
+2025-05-26 18:14:10,485 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:14:10,857 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:14:10,858 - aiogram.event - INFO - Update id=820560512 is handled. Duration 372 ms by bot id=7905534763
+2025-05-26 18:14:16,747 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:14:16,751 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:14:16,751 - aiogram.event - INFO - Update id=820560513 is not handled. Duration 4 ms by bot id=7905534763
+2025-05-26 18:14:19,956 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:14:20,176 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:14:20,177 - aiogram.event - INFO - Update id=820560514 is handled. Duration 220 ms by bot id=7905534763
+2025-05-26 18:15:35,113 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-26 18:15:35,369 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 18:15:41,655 - aiogram.dispatcher - INFO - Start polling
+2025-05-26 18:15:41,840 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 18:15:51,153 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:15:51,158 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:15:51,158 - aiogram.event - INFO - Update id=820560515 is not handled. Duration 5 ms by bot id=7905534763
+2025-05-26 18:15:55,757 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:15:55,965 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:15:55,965 - aiogram.event - INFO - Update id=820560516 is handled. Duration 208 ms by bot id=7905534763
+2025-05-26 18:15:59,133 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:15:59,217 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:15:59,217 - aiogram.event - INFO - Update id=820560517 is handled. Duration 84 ms by bot id=7905534763
+2025-05-26 18:16:00,732 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:16:00,863 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:16:00,864 - aiogram.event - INFO - Update id=820560518 is handled. Duration 131 ms by bot id=7905534763
+2025-05-26 18:16:03,114 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:16:04,389 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:16:04,389 - aiogram.event - INFO - Update id=820560519 is handled. Duration 1274 ms by bot id=7905534763
+2025-05-26 18:16:06,856 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:16:06,861 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:16:06,861 - aiogram.event - INFO - Update id=820560520 is handled. Duration 5 ms by bot id=7905534763
+2025-05-26 18:16:31,648 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:16:31,651 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:16:31,652 - aiogram.event - INFO - Update id=820560521 is handled. Duration 3 ms by bot id=7905534763
+2025-05-26 18:16:33,147 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:16:33,229 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:16:33,229 - aiogram.event - INFO - Update id=820560522 is handled. Duration 83 ms by bot id=7905534763
+2025-05-26 18:16:40,361 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:16:40,563 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:16:40,564 - aiogram.event - INFO - Update id=820560523 is handled. Duration 203 ms by bot id=7905534763
+2025-05-26 18:16:43,034 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:16:43,124 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:16:43,124 - aiogram.event - INFO - Update id=820560524 is handled. Duration 90 ms by bot id=7905534763
+2025-05-26 18:16:44,555 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:16:46,827 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:16:46,828 - aiogram.event - INFO - Update id=820560525 is handled. Duration 2273 ms by bot id=7905534763
+2025-05-26 18:16:49,987 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:16:50,236 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:16:50,237 - aiogram.event - INFO - Update id=820560526 is handled. Duration 249 ms by bot id=7905534763
+2025-05-26 18:22:36,011 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-26 18:22:36,268 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 18:22:41,699 - aiogram.dispatcher - INFO - Start polling
+2025-05-26 18:22:41,884 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 18:22:42,709 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:22:42,967 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:22:42,968 - aiogram.event - INFO - Update id=820560527 is handled. Duration 258 ms by bot id=7905534763
+2025-05-26 18:22:45,654 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:22:45,795 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:22:45,795 - aiogram.event - INFO - Update id=820560528 is handled. Duration 141 ms by bot id=7905534763
+2025-05-26 18:22:49,309 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:22:49,443 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:22:49,444 - aiogram.event - INFO - Update id=820560529 is handled. Duration 135 ms by bot id=7905534763
+2025-05-26 18:22:50,707 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:22:52,768 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:22:52,769 - aiogram.event - INFO - Update id=820560530 is handled. Duration 2062 ms by bot id=7905534763
+2025-05-26 18:24:54,205 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-26 18:24:54,468 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 18:25:01,199 - aiogram.dispatcher - INFO - Start polling
+2025-05-26 18:25:01,390 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 18:25:02,985 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:25:03,828 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:25:03,829 - aiogram.event - INFO - Update id=820560531 is handled. Duration 843 ms by bot id=7905534763
+2025-05-26 18:25:05,497 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:25:05,602 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:25:05,603 - aiogram.event - INFO - Update id=820560532 is handled. Duration 106 ms by bot id=7905534763
+2025-05-26 18:25:07,767 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:25:08,060 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:25:08,061 - aiogram.event - INFO - Update id=820560533 is handled. Duration 293 ms by bot id=7905534763
+2025-05-26 18:25:09,579 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:25:09,662 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:25:09,662 - aiogram.event - INFO - Update id=820560534 is handled. Duration 83 ms by bot id=7905534763
+2025-05-26 18:25:11,364 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:25:13,503 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:25:13,503 - aiogram.event - INFO - Update id=820560535 is handled. Duration 2139 ms by bot id=7905534763
+2025-05-26 18:25:14,782 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 18:25:15,065 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 18:25:15,065 - aiogram.event - INFO - Update id=820560536 is handled. Duration 283 ms by bot id=7905534763
+2025-05-26 18:25:21,115 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-26 18:25:21,371 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 19:26:54,991 - aiogram.dispatcher - INFO - Start polling
+2025-05-26 19:26:55,192 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 19:26:59,907 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:27:00,123 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:27:00,124 - aiogram.event - INFO - Update id=820560537 is handled. Duration 217 ms by bot id=7905534763
+2025-05-26 19:27:03,359 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:27:03,456 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:27:03,457 - aiogram.event - INFO - Update id=820560538 is handled. Duration 97 ms by bot id=7905534763
+2025-05-26 19:27:05,552 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:27:05,803 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:27:05,804 - aiogram.event - INFO - Update id=820560539 is handled. Duration 252 ms by bot id=7905534763
+2025-05-26 19:27:07,446 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:27:09,832 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:27:09,833 - aiogram.event - INFO - Update id=820560540 is handled. Duration 2387 ms by bot id=7905534763
+2025-05-26 19:27:11,803 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:27:12,106 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:27:12,106 - aiogram.event - INFO - Update id=820560541 is handled. Duration 303 ms by bot id=7905534763
+2025-05-26 19:35:45,187 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-26 19:35:45,442 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 19:35:50,428 - aiogram.dispatcher - INFO - Start polling
+2025-05-26 19:35:50,607 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 19:35:55,003 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:35:56,779 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:35:56,969 - aiogram.event - INFO - Update id=820560542 is handled. Duration 1965 ms by bot id=7905534763
+2025-05-26 19:35:59,037 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:35:59,514 - middleware - ERROR - Error in handler CallableObject.call: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 19:35:59,705 - aiogram.event - INFO - Update id=820560543 is not handled. Duration 668 ms by bot id=7905534763
+2025-05-26 19:35:59,705 - aiogram.event - ERROR - Cause exception while process update id=820560543 by bot id=7905534763
+KeyError: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 19:36:03,229 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:36:03,553 - middleware - ERROR - Error in handler CallableObject.call: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 19:36:03,559 - aiogram.event - INFO - Update id=820560544 is not handled. Duration 330 ms by bot id=7905534763
+2025-05-26 19:36:03,559 - aiogram.event - ERROR - Cause exception while process update id=820560544 by bot id=7905534763
+KeyError: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 19:36:05,821 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:36:05,926 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:36:05,927 - aiogram.event - INFO - Update id=820560545 is handled. Duration 106 ms by bot id=7905534763
+2025-05-26 19:36:07,651 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:36:07,909 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:36:07,910 - aiogram.event - INFO - Update id=820560546 is handled. Duration 258 ms by bot id=7905534763
+2025-05-26 19:36:11,522 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:36:11,611 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:36:11,611 - aiogram.event - INFO - Update id=820560547 is handled. Duration 89 ms by bot id=7905534763
+2025-05-26 19:36:13,313 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:36:15,454 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:36:15,455 - aiogram.event - INFO - Update id=820560548 is handled. Duration 2141 ms by bot id=7905534763
+2025-05-26 19:36:16,366 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:36:16,449 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:36:16,449 - aiogram.event - INFO - Update id=820560549 is handled. Duration 82 ms by bot id=7905534763
+2025-05-26 19:36:19,047 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:36:19,135 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:36:19,136 - aiogram.event - INFO - Update id=820560550 is handled. Duration 88 ms by bot id=7905534763
+2025-05-26 19:36:21,255 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:36:21,352 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:36:21,352 - aiogram.event - INFO - Update id=820560551 is handled. Duration 97 ms by bot id=7905534763
+2025-05-26 19:36:23,799 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:36:26,090 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:36:26,091 - aiogram.event - INFO - Update id=820560552 is handled. Duration 2291 ms by bot id=7905534763
+2025-05-26 19:36:27,316 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:36:28,155 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:36:28,156 - aiogram.event - INFO - Update id=820560553 is handled. Duration 840 ms by bot id=7905534763
+2025-05-26 19:36:28,789 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:36:29,031 - middleware - ERROR - Error in handler CallableObject.call: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 19:36:29,036 - aiogram.event - INFO - Update id=820560554 is not handled. Duration 247 ms by bot id=7905534763
+2025-05-26 19:36:29,037 - aiogram.event - ERROR - Cause exception while process update id=820560554 by bot id=7905534763
+KeyError: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 19:36:32,242 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:36:32,657 - middleware - ERROR - Error in handler CallableObject.call: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 19:36:32,662 - aiogram.event - INFO - Update id=820560555 is not handled. Duration 419 ms by bot id=7905534763
+2025-05-26 19:36:32,662 - aiogram.event - ERROR - Cause exception while process update id=820560555 by bot id=7905534763
+KeyError: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 19:36:42,098 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:36:42,372 - middleware - ERROR - Error in handler CallableObject.call: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 19:36:42,379 - aiogram.event - INFO - Update id=820560556 is not handled. Duration 280 ms by bot id=7905534763
+2025-05-26 19:36:42,379 - aiogram.event - ERROR - Cause exception while process update id=820560556 by bot id=7905534763
+KeyError: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 19:41:44,738 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:41:44,834 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:41:44,834 - aiogram.event - INFO - Update id=820560557 is handled. Duration 95 ms by bot id=7905534763
+2025-05-26 19:57:41,570 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-26 19:57:41,830 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 19:57:46,636 - aiogram.dispatcher - INFO - Start polling
+2025-05-26 19:57:46,841 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 19:57:48,545 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:57:48,826 - middleware - ERROR - Error in handler CallableObject.call: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 19:57:48,830 - aiogram.event - INFO - Update id=820560558 is not handled. Duration 285 ms by bot id=7905534763
+2025-05-26 19:57:48,831 - aiogram.event - ERROR - Cause exception while process update id=820560558 by bot id=7905534763
+KeyError: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 19:57:52,079 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:57:52,256 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:57:52,256 - aiogram.event - INFO - Update id=820560559 is handled. Duration 177 ms by bot id=7905534763
+2025-05-26 19:58:03,141 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:58:03,322 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:58:03,322 - aiogram.event - INFO - Update id=820560560 is handled. Duration 181 ms by bot id=7905534763
+2025-05-26 19:58:43,704 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:58:43,900 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:58:43,901 - aiogram.event - INFO - Update id=820560561 is handled. Duration 197 ms by bot id=7905534763
+2025-05-26 19:59:05,955 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:59:06,164 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:59:06,164 - aiogram.event - INFO - Update id=820560562 is handled. Duration 209 ms by bot id=7905534763
+2025-05-26 19:59:21,211 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-26 19:59:21,474 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 19:59:32,437 - aiogram.dispatcher - INFO - Start polling
+2025-05-26 19:59:32,640 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 19:59:33,437 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:59:33,893 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:59:33,893 - aiogram.event - INFO - Update id=820560563 is handled. Duration 456 ms by bot id=7905534763
+2025-05-26 19:59:55,817 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 19:59:55,986 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 19:59:55,987 - aiogram.event - INFO - Update id=820560564 is handled. Duration 170 ms by bot id=7905534763
+2025-05-26 20:00:12,884 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:00:13,341 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:00:13,341 - aiogram.event - INFO - Update id=820560565 is handled. Duration 457 ms by bot id=7905534763
+2025-05-26 20:00:28,687 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-26 20:00:28,954 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 20:06:36,712 - aiogram.dispatcher - INFO - Start polling
+2025-05-26 20:06:36,883 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 20:06:40,802 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:06:41,223 - middleware - ERROR - Error in handler CallableObject.call: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:06:41,227 - aiogram.event - INFO - Update id=820560566 is not handled. Duration 424 ms by bot id=7905534763
+2025-05-26 20:06:41,227 - aiogram.event - ERROR - Cause exception while process update id=820560566 by bot id=7905534763
+KeyError: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:06:43,600 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:06:43,683 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:06:43,683 - aiogram.event - INFO - Update id=820560567 is handled. Duration 83 ms by bot id=7905534763
+2025-05-26 20:06:45,202 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:06:45,284 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:06:45,285 - aiogram.event - INFO - Update id=820560568 is handled. Duration 83 ms by bot id=7905534763
+2025-05-26 20:06:47,157 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:06:47,256 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:06:47,257 - aiogram.event - INFO - Update id=820560569 is handled. Duration 100 ms by bot id=7905534763
+2025-05-26 20:06:48,857 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:06:49,762 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:06:49,763 - aiogram.event - INFO - Update id=820560570 is handled. Duration 905 ms by bot id=7905534763
+2025-05-26 20:06:51,424 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:06:51,990 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:06:51,990 - aiogram.event - INFO - Update id=820560571 is handled. Duration 565 ms by bot id=7905534763
+2025-05-26 20:08:08,476 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-26 20:08:08,733 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 20:08:13,539 - aiogram.dispatcher - INFO - Start polling
+2025-05-26 20:08:13,743 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 20:08:13,914 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:08:14,340 - middleware - ERROR - Error in handler CallableObject.call: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:08:14,350 - aiogram.event - INFO - Update id=820560572 is not handled. Duration 436 ms by bot id=7905534763
+2025-05-26 20:08:14,351 - aiogram.event - ERROR - Cause exception while process update id=820560572 by bot id=7905534763
+KeyError: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:08:29,595 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-26 20:08:29,857 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 20:08:35,400 - aiogram.dispatcher - INFO - Start polling
+2025-05-26 20:08:35,577 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 20:08:35,648 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:08:36,004 - middleware - ERROR - Error in handler CallableObject.call: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:08:36,011 - aiogram.event - INFO - Update id=820560573 is not handled. Duration 362 ms by bot id=7905534763
+2025-05-26 20:08:36,011 - aiogram.event - ERROR - Cause exception while process update id=820560573 by bot id=7905534763
+KeyError: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:08:51,216 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:08:51,482 - middleware - ERROR - Error in handler CallableObject.call: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:08:51,485 - aiogram.event - INFO - Update id=820560574 is not handled. Duration 269 ms by bot id=7905534763
+2025-05-26 20:08:51,486 - aiogram.event - ERROR - Cause exception while process update id=820560574 by bot id=7905534763
+KeyError: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:18:15,072 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-26 20:18:15,329 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 20:18:20,468 - aiogram.dispatcher - INFO - Start polling
+2025-05-26 20:18:20,659 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 20:18:21,716 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:18:27,050 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:18:27,453 - middleware - ERROR - Error in handler CallableObject.call: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:18:27,462 - aiogram.event - INFO - Update id=820560576 is not handled. Duration 411 ms by bot id=7905534763
+2025-05-26 20:18:27,462 - aiogram.event - ERROR - Cause exception while process update id=820560576 by bot id=7905534763
+KeyError: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:18:34,079 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:18:34,289 - middleware - ERROR - Error in handler CallableObject.call: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:18:34,291 - aiogram.event - INFO - Update id=820560577 is not handled. Duration 211 ms by bot id=7905534763
+2025-05-26 20:18:34,291 - aiogram.event - ERROR - Cause exception while process update id=820560577 by bot id=7905534763
+KeyError: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:18:42,757 - aiogram.event - INFO - Update id=820560575 is not handled. Duration 21041 ms by bot id=7905534763
+2025-05-26 20:18:42,757 - aiogram.event - ERROR - Cause exception while process update id=820560575 by bot id=7905534763
+TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohttp\connector.py", line 1115, in _wrap_create_connection
+    sock = await aiohappyeyeballs.start_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohappyeyeballs\impl.py", line 122, in start_connection
+    raise first_exception
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohappyeyeballs\impl.py", line 73, in start_connection
+    sock = await _connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohappyeyeballs\impl.py", line 208, in _connect_sock
+    await loop.sock_connect(sock, address)
+  File "C:\Program Files\Python313\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\asyncio\windows_events.py", line 804, in _poll
+    value = callback(transferred, key, ov)
+  File "C:\Program Files\Python313\Lib\asyncio\windows_events.py", line 600, in finish_connect
+    ov.getresult()
+    ~~~~~~~~~~~~^^
+OSError: [WinError 121] Превышен таймаут семафора
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    async with session.post(
+               ~~~~~~~~~~~~^
+        url, data=form, timeout=self.timeout if timeout is None else timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ) as resp:
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohttp\client.py", line 1425, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohttp\connector.py", line 1406, in _create_direct_connection
+    raise last_exc
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohttp\connector.py", line 1375, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohttp\connector.py", line 1130, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\handlers.py", line 136, in message_handler
+    await message.answer('Подождите секунду...')
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\client\bot.py", line 478, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 184, in make_request
+    raise TelegramNetworkError(method=method, message=f"{type(e).__name__}: {e}")
+aiogram.exceptions.TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2025-05-26 20:42:44,600 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-26 20:42:44,600 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7905534763)
+2025-05-26 20:42:55,819 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7905534763)
+2025-05-26 20:43:02,427 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:43:02,853 - middleware - ERROR - Error in handler CallableObject.call: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:43:02,857 - aiogram.event - INFO - Update id=820560578 is not handled. Duration 431 ms by bot id=7905534763
+2025-05-26 20:43:02,858 - aiogram.event - ERROR - Cause exception while process update id=820560578 by bot id=7905534763
+KeyError: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:43:08,665 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:43:08,896 - middleware - ERROR - Error in handler CallableObject.call: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:43:08,900 - aiogram.event - INFO - Update id=820560579 is not handled. Duration 235 ms by bot id=7905534763
+2025-05-26 20:43:08,900 - aiogram.event - ERROR - Cause exception while process update id=820560579 by bot id=7905534763
+KeyError: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:49:35,453 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-26 20:49:35,711 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 20:49:41,013 - aiogram.dispatcher - INFO - Start polling
+2025-05-26 20:49:41,196 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 20:49:41,261 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:49:41,803 - middleware - ERROR - Error in handler CallableObject.call: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:49:41,817 - aiogram.event - INFO - Update id=820560580 is not handled. Duration 556 ms by bot id=7905534763
+2025-05-26 20:49:41,818 - aiogram.event - ERROR - Cause exception while process update id=820560580 by bot id=7905534763
+KeyError: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:49:42,528 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:49:42,797 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:49:42,798 - aiogram.event - INFO - Update id=820560581 is handled. Duration 269 ms by bot id=7905534763
+2025-05-26 20:49:44,052 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:49:44,168 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:49:44,168 - aiogram.event - INFO - Update id=820560582 is handled. Duration 116 ms by bot id=7905534763
+2025-05-26 20:50:57,371 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-26 20:50:57,632 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 20:51:03,320 - aiogram.dispatcher - INFO - Start polling
+2025-05-26 20:51:03,509 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 20:51:03,579 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:51:07,066 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:51:07,349 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:51:07,349 - aiogram.event - INFO - Update id=820560584 is handled. Duration 283 ms by bot id=7905534763
+2025-05-26 20:51:15,960 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:51:16,049 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:51:16,050 - aiogram.event - INFO - Update id=820560585 is handled. Duration 89 ms by bot id=7905534763
+2025-05-26 20:51:18,612 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:51:18,693 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:51:18,693 - aiogram.event - INFO - Update id=820560586 is handled. Duration 81 ms by bot id=7905534763
+2025-05-26 20:51:24,647 - aiogram.event - INFO - Update id=820560583 is not handled. Duration 21068 ms by bot id=7905534763
+2025-05-26 20:51:24,647 - aiogram.event - ERROR - Cause exception while process update id=820560583 by bot id=7905534763
+TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohttp\connector.py", line 1115, in _wrap_create_connection
+    sock = await aiohappyeyeballs.start_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohappyeyeballs\impl.py", line 122, in start_connection
+    raise first_exception
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohappyeyeballs\impl.py", line 73, in start_connection
+    sock = await _connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohappyeyeballs\impl.py", line 208, in _connect_sock
+    await loop.sock_connect(sock, address)
+  File "C:\Program Files\Python313\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\asyncio\windows_events.py", line 804, in _poll
+    value = callback(transferred, key, ov)
+  File "C:\Program Files\Python313\Lib\asyncio\windows_events.py", line 600, in finish_connect
+    ov.getresult()
+    ~~~~~~~~~~~~^^
+OSError: [WinError 121] Превышен таймаут семафора
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    async with session.post(
+               ~~~~~~~~~~~~^
+        url, data=form, timeout=self.timeout if timeout is None else timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ) as resp:
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohttp\client.py", line 1425, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohttp\connector.py", line 1406, in _create_direct_connection
+    raise last_exc
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohttp\connector.py", line 1375, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiohttp\connector.py", line 1130, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\handlers.py", line 136, in message_handler
+    await message.answer('Подождите секунду...')
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\client\bot.py", line 478, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 184, in make_request
+    raise TelegramNetworkError(method=method, message=f"{type(e).__name__}: {e}")
+aiogram.exceptions.TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2025-05-26 20:52:33,108 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-26 20:52:33,376 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 20:52:44,022 - aiogram.dispatcher - INFO - Start polling
+2025-05-26 20:52:44,210 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 20:52:45,430 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:52:45,999 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:52:46,000 - aiogram.event - INFO - Update id=820560587 is handled. Duration 569 ms by bot id=7905534763
+2025-05-26 20:52:54,331 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:52:54,436 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:52:54,437 - aiogram.event - INFO - Update id=820560588 is handled. Duration 106 ms by bot id=7905534763
+2025-05-26 20:52:57,462 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:52:57,545 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:52:57,546 - aiogram.event - INFO - Update id=820560589 is handled. Duration 84 ms by bot id=7905534763
+2025-05-26 20:52:59,031 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:53:01,249 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:53:01,250 - aiogram.event - INFO - Update id=820560590 is handled. Duration 2218 ms by bot id=7905534763
+2025-05-26 20:53:02,762 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:53:02,852 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:53:02,852 - aiogram.event - INFO - Update id=820560591 is handled. Duration 90 ms by bot id=7905534763
+2025-05-26 20:53:51,176 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-26 20:53:51,442 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 20:53:56,440 - aiogram.dispatcher - INFO - Start polling
+2025-05-26 20:53:56,627 - aiogram.dispatcher - INFO - Run polling for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'
+2025-05-26 20:53:57,406 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:54:18,460 - aiogram.event - INFO - Update id=820560592 is not handled. Duration 21054 ms by bot id=7905534763
+2025-05-26 20:54:18,972 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:54:19,255 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:54:19,255 - aiogram.event - INFO - Update id=820560593 is handled. Duration 283 ms by bot id=7905534763
+2025-05-26 20:54:21,598 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:54:21,694 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:54:21,694 - aiogram.event - INFO - Update id=820560594 is handled. Duration 96 ms by bot id=7905534763
+2025-05-26 20:54:24,160 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:54:24,251 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:54:24,251 - aiogram.event - INFO - Update id=820560595 is handled. Duration 91 ms by bot id=7905534763
+2025-05-26 20:54:28,493 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:54:30,498 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:54:30,498 - aiogram.event - INFO - Update id=820560596 is handled. Duration 2005 ms by bot id=7905534763
+2025-05-26 20:54:33,183 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:54:33,332 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:54:33,332 - aiogram.event - INFO - Update id=820560597 is handled. Duration 150 ms by bot id=7905534763
+2025-05-26 20:54:34,310 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:54:34,394 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:54:34,394 - aiogram.event - INFO - Update id=820560598 is handled. Duration 85 ms by bot id=7905534763
+2025-05-26 20:54:36,910 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:54:37,061 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:54:37,062 - aiogram.event - INFO - Update id=820560599 is handled. Duration 152 ms by bot id=7905534763
+2025-05-26 20:54:38,446 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:54:40,411 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:54:40,411 - aiogram.event - INFO - Update id=820560600 is handled. Duration 1965 ms by bot id=7905534763
+2025-05-26 20:54:42,402 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:54:43,087 - middleware - INFO - Handler CallableObject.call finished successfully
+2025-05-26 20:54:43,088 - aiogram.event - INFO - Update id=820560601 is handled. Duration 685 ms by bot id=7905534763
+2025-05-26 20:54:43,256 - middleware - INFO - Handler CallableObject.call started for Update
+2025-05-26 20:54:43,519 - middleware - ERROR - Error in handler CallableObject.call: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:54:43,525 - aiogram.event - INFO - Update id=820560602 is not handled. Duration 268 ms by bot id=7905534763
+2025-05-26 20:54:43,525 - aiogram.event - ERROR - Cause exception while process update id=820560602 by bot id=7905534763
+KeyError: 'refresh'
+Traceback (most recent call last):
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\middleware.py", line 22, in log_middleware
+    result = await handler(event, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\python\telegram_mrketplace_bot\config.py", line 66, in wrapper
+    new_tokens = await refresh_access_token(tokens["refresh"])
+                                            ~~~~~~^^^^^^^^^^^
+KeyError: 'refresh'
+2025-05-26 20:55:02,841 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-26 20:55:03,098 - aiogram.dispatcher - INFO - Polling stopped for bot @marketplace_x1_bot id=7905534763 - 'marketplace_bot'

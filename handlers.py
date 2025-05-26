@@ -1,13 +1,15 @@
 from aiogram import Bot, Dispatcher, F, Router
-from aiogram.types import Message
+from aiogram.types import Message, ReplyKeyboardRemove
+from aiogram.utils import markdown
 from aiogram.filters import Command
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.enums import ParseMode
-from api import (authenticate_user, refresh_access_token, get_user_orders, check_user_registered, link_telegram_id,
+from api import (authenticate_user, refresh_access_token, get_user_delivery, check_user_registered, link_telegram_id,
                  get_user_history)
 from cache import get_tokens_redis, save_tokens_redis, delete_tokens_redis
-from config import format_order, get_status_orders, get_status_history, format_history
+from config import format_order, get_status_orders, get_status_history, format_history, auth_required
+from keyboards import main_keyboard
 
 dp_router = Router()
 
@@ -22,16 +24,19 @@ async def start(message: Message, state: FSMContext):
     tokens = await get_tokens_redis(tg_id)
 
     if tokens:
-        await message.answer("✅ Вы уже авторизованы! Доступные команды:\n/delivery – ваши заказы")
+        await message.answer("✅ Вы уже авторизованы! \n"
+                             "Выберите нужный пункт в клавиатуре.", reply_markup=main_keyboard())
     else:
-        await message.answer("🔐 Введите ваш **username** от аккаунта DRF:")
+        await message.answer(text=markdown.text("🔐 Введите ваш", markdown.bold("username"), "от аккаунта магазина:"),
+                             parse_mode=ParseMode.MARKDOWN_V2)
         await state.set_state(AuthState.username)
 
 
 @dp_router.message(AuthState.username)
 async def handle_username(message: Message, state: FSMContext):
     await state.update_data(username=message.text)
-    await message.answer("Теперь введите ваш **пароль**:")
+    await message.answer(text=markdown.text("🔐 Теперь введите ваш ", markdown.bold("пароль"), ":"),
+                         parse_mode=ParseMode.MARKDOWN_V2)
     await state.set_state(AuthState.password)
 
 
@@ -59,28 +64,15 @@ async def handle_password(message: Message, state: FSMContext):
         await state.clear()
         return
 
-    await message.answer("✅ Успешная авторизация! Доступные команды:\n/delivery – ваши заказы"
-                         "\n/history - история покупок")
+    await message.answer("✅ Успешная авторизация!\n "
+                         "Выберите нужный пункт в клавиатуре. ", reply_markup=main_keyboard())
     await state.clear()
 
 
-@dp_router.message(Command("delivery"))
-async def delivery_handler(message: Message):
-    tg_id = message.from_user.id
-
-    tokens = await get_tokens_redis(tg_id)
-
-    if not tokens:
-        await message.answer("❌ Требуется авторизация! /start")
-        return
-
-    orders = await get_user_orders(tokens["access"])
-
-    if orders is None:
-        new_tokens = await refresh_access_token(tokens["refresh"])
-        if new_tokens:
-            await save_tokens_redis(tg_id, new_tokens)
-            orders = await get_user_orders(new_tokens["access"])
+@dp_router.message(F.text == 'Доставка')
+@auth_required
+async def delivery_handler(message: Message, access_token: str):
+    orders = await get_user_delivery(access_token)
 
     if not orders:
         await message.answer("📭 У вас пока нет заказов.")
@@ -100,31 +92,14 @@ async def delivery_handler(message: Message):
         response.extend(format_order(o) for o in on_the_way)
 
     full_message = "\n".join(response)
-    if len(full_message) > 4000:  # Ограничение Telegram
-        parts = [full_message[i:i + 4000] for i in range(0, len(full_message), 4000)]
-        for part in parts:
-            await message.answer(part)
-    else:
-        await message.answer(full_message)
+    for part in [full_message[i:i + 4000] for i in range(0, len(full_message), 4000)]:
+        await message.answer(part, parse_mode=ParseMode.HTML)
 
 
-@dp_router.message(Command("history"))
-async def history_history(message: Message):
-    tg_id = message.from_user.id
-
-    tokens = await get_tokens_redis(tg_id)
-
-    if not tokens:
-        await message.answer("❌ Требуется авторизация! /start")
-        return
-
-    histories = await get_user_history(tokens["access"])
-
-    if histories is None:
-        new_tokens = await refresh_access_token(tokens["refresh"])
-        if new_tokens:
-            await save_tokens_redis(tg_id, new_tokens)
-            histories = await get_user_history(new_tokens["access"])
+@dp_router.message(F.text == 'История покупок')
+@auth_required
+async def history_handler(message: Message, access_token: str):
+    histories = await get_user_history(access_token)
 
     if not histories:
         await message.answer("📭 Ваша история покупок пуста.")
@@ -132,30 +107,34 @@ async def history_history(message: Message):
 
     response = [
         "🛒 <b>История покупок</b>",
-        f"Всего покупок: {len(histories)}\n"
+        f"<b>Всего покупок: {len(histories)}</b>\n"
     ]
 
     response.extend(format_history(item) for item in histories)
 
     full_message = "\n".join(response)
     for part in [full_message[i:i + 4000] for i in range(0, len(full_message), 4000)]:
-        await message.answer(part)
+        await message.answer(part, parse_mode=ParseMode.HTML)
 
 
-@dp_router.message(Command("check"))
-async def get_tg_id_handler(message: Message):
-    tg_id = message.from_user.id
-    tokens = await get_tokens_redis(tg_id)
-    await message.answer(f"{tokens}")
-
-
-@dp_router.message(Command("delete"))
+@dp_router.message(F.text == 'Выйти из акканута')
 async def delete_token_handler(message: Message):
     tg_id = message.from_user.id
     try:
-        delete = await delete_tokens_redis(tg_id)
-        if delete:
-            await message.answer("Токены удалены из кэша")
+        success = await delete_tokens_redis(tg_id)
+        if success:
+            await message.answer("✅ Вы успешно вышли из аккаунта.\n"
+                    "Для повторной авторизации используйте /start", reply_markup=ReplyKeyboardRemove())
+        else:
+            await message.answer(
+                "⚠️ Не удалось выйти из аккаунта. Попробуйте позже.",
+                reply_markup=ReplyKeyboardRemove())
     except Exception as e:
-        await message.answer(f"Ошибка: {str(e)}")
+        await message.answer(f"❌ Ошибка: {str(e)}")
 
+
+@dp_router.message()
+async def message_handler(message: Message):
+    await message.answer('Подождите секунду...')
+    if message.text:
+        await message.answer(message.text, entities=message.entities)

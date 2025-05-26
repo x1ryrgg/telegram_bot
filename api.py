@@ -52,7 +52,7 @@ async def check_user_registered(tg_id: int) -> bool:
         print(f"Check User Error: {e}")
         return False
 
-async def get_user_orders(access_token: str) -> list | None:
+async def get_user_delivery(access_token: str) -> list | None:
     """Получение списка заказов пользователя."""
     headers = {"Authorization": f"Bearer {access_token}"}
     try:

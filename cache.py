@@ -31,6 +31,7 @@ async def get_tokens_redis(tg_id: int) -> dict | None:
     return None
 
 
-async def delete_tokens_redis(tg_id: int) -> None:
+async def delete_tokens_redis(tg_id: int) -> None | bool:
     """Удаляет токены из Redis (асинхронно)."""
     await redis_client.delete(f"user:{tg_id}")
+    return True
